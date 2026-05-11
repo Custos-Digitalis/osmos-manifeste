@@ -115,6 +115,9 @@ fermant les yeux. L'écran s'allume et une phrase apparaît, seule, au centre :
 
 > *"Bonjour. Je suis OSMOS. Apprenons à nous connaître mutuellement."*
 
+![Écran de premier démarrage d'OSMOS](mockup1_sunrise.png)
+*Illustration conceptuelle — maquette fictive*
+
 Ce "mutuellement" n'est pas un ornement stylistique. Il définit la nature exacte
 de ce qui commence. C'est OSMOS qui commence son apprentissage. **Vous êtes
 son professeur.**
@@ -134,11 +137,17 @@ respire, change d'ambiance. Chaque changement est expliqué, validé, réversibl
 **Au bout de quelques semaines, votre bureau ne ressemble plus à aucun autre.
 Il vous ressemble.**
 
+![OSMOS Morphing UI — mode travail et mode détente](mockup2_morphing.png)
+*Illustration conceptuelle — maquette fictive*
+
 OSMOS habite l'ensemble de vos appareils — PC, tablette, smartphone — avec
 la même logique, la même voix. Non pas via un serveur distant, mais en faisant
 communiquer vos appareils entre eux, directement, via un réseau local privé
 et chiffré. Ce que vous faites sur l'un, l'autre le sait — sans que rien ne soit
 jamais passé par l'extérieur.
+
+![OSMOS — dialogue pédagogique, Loi 2 en action](mockup3_loi2.png)
+*Illustration conceptuelle — maquette fictive*
 
 ---
 
